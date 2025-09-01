@@ -4,7 +4,7 @@ public class User {
     private String username;
     private String displayname;
     private String email;
-
+    //main
     // Default constructor (needed for JSON deserialization)
     public User() {
     }
